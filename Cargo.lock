@@ -378,7 +378,7 @@ dependencies = [
 [[package]]
 name = "croaring"
 version = "0.4.4"
-source = "git+https://github.com/jaspervdm/croaring-rs?branch=compat#ac32e0658cc9dc3d4a8c432923a245e34469c7a8"
+source = "git+https://github.com/jaspervdm/croaring-rs?branch=x#ac32e0658cc9dc3d4a8c432923a245e34469c7a8"
 dependencies = [
  "byteorder",
  "croaring-sys",
@@ -388,7 +388,7 @@ dependencies = [
 [[package]]
 name = "croaring-sys"
 version = "0.4.4"
-source = "git+https://github.com/jaspervdm/croaring-rs?branch=compat#ac32e0658cc9dc3d4a8c432923a245e34469c7a8"
+source = "git+https://github.com/jaspervdm/croaring-rs?branch=x#ac32e0658cc9dc3d4a8c432923a245e34469c7a8"
 dependencies = [
  "bindgen",
  "cc",
